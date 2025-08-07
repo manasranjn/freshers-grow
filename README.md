@@ -9,8 +9,11 @@ This is a full-stack web application built to help users explore blogs related t
 ## 🔹 Frontend
 
 • React.js – Component-based UI
+
 • Tailwind CSS – Utility-first styling
+
 • React Router – Client-side routing
+
 • Axios – For API requests
 
 ## 🔹 Backend
