@@ -1,9 +1,10 @@
 import React from "react";
+import UserNavbar from "../../Components/Common/UserNavbar";
 
 const UserLayout = () => {
   return (
     <div>
-      <h1>UserLayout</h1>
+      <UserNavbar />
     </div>
   );
 };
